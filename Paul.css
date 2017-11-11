@@ -1,0 +1,29 @@
+body {
+	background-size: cover;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+
+.row.photo{
+	height: 550px;
+	padding-top: 350px;
+}
+
+.row.photo h5{
+	font-size: 20px;
+}
+
+.row.photo h6{
+	font-size: 40px;
+}
+
+.col-sm-4{
+	background-color: white;
+}
+.row{
+	padding-top: 3px;
+}
